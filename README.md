@@ -1,7 +1,6 @@
 # La negación en español
 
-<a href="https://h5p.org/node/506002">Video explicativo</a> sobre la negación <br>
-<a href="https://h5p.org/node/506002">Hoja explicativa </a> sobre la negación <br>
+Auf dieser <a href="https://espanol.lingolia.com/de/grammatik/satzbau/verneinung">Seite </a> wird die Verneinung im Spanischen gut erklärt. Wir haben bisher nur die einfache Verneinung mit no behandelt. Deshalb ist es wichtig, dass ihr die Satzstruktur in diesem Fall kennt. Dafür könnt ihr Euch die Seite bis einschließlich Verwendung von Pronomen als Objekt.<br>
 
 
 Ejercicios para practicar la negación
